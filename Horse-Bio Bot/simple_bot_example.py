@@ -10,7 +10,7 @@ from aiogram import Bot, Dispatcher, types, executor
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove
 import aiogram.utils.markdown as md
 
-bot = Bot(token="5755011447:AAGGiqUNsTAHXvd6jWZ2UPhrZ1sE2bEBu6s")
+bot = Bot(token="")
 dp = Dispatcher(bot)
 
 # Кнопки главного меню
